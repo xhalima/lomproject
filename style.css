@@ -1,0 +1,14 @@
+body{
+    background-color: #855f5f;
+}
+
+h1{
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(237, 237, 242);
+    background-color: darkblue;
+}
